@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   </div>
-  
+
   <br/><hr/>
   
   ![marzvier's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueme0&show_icons=true&theme=onedark&count_private=true&bg_color=90,e9f5db,ffffff&text_color=344e41&title_color=000000)
