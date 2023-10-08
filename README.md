@@ -33,7 +33,7 @@
 
   <br/><hr/>
   
-  ![marzvier's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueme0&show_icons=true&theme=onedark&count_private=true&bg_color=90,e9f5db,ffffff&text_color=344e41&title_color=000000)
+  ![seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueme0&show_icons=true&theme=onedark&count_private=true&bg_color=90,e9f5db,ffffff&text_color=344e41&title_color=000000)
 
 <!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueme0&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
