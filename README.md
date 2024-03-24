@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></p>
     
 <br />
-<br/>
+<br />
 
   ## Projects
   * IT 커리어 성장형 네트워킹 서비스, [틈틈]
